@@ -7,7 +7,7 @@
 ### Links and Resources
 * [submission PR](https://github.com/yosh-401-advanced-javascript/401-lab-34/pull/1)
 * [travis](https://travis-ci.com/yosh-401-advanced-javascript/401-lab-34/builds/128102023)
-* [front-end]()
+* [front-end](https://elated-hamilton-99d523.netlify.com/)
 #### Documentation
 * `npm run docs`
 * `npm run docds:build`
@@ -32,4 +32,4 @@ run the server.
 * Lint tests are run with 'npm lint'
 
 #### UML
-[UML](/assets/uml.png)
+[UML](src/assets/uml.png)
