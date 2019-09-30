@@ -25,7 +25,6 @@
     "uuid": "^3.3.3"
   },
   "devDependencies": {
-    "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-react": "^7.14.3",
     "react-styleguidist": "^9.1.16"
   },
