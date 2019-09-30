@@ -1,4 +1,10 @@
-
+/**
+ * Switch statement
+ * @param state
+ * @param type
+ * @param payload
+ * @returns {*[]|Array}
+ */
 export default (state = [], { type, payload }) => {
   switch (type) {
     case 'PANTRY_CREATE':
